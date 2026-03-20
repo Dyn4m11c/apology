@@ -107,7 +107,7 @@ garden: {
   },
   button: {
     padding: '15px 30px',
-    fontSize: '18px',
+    fontSize: '24px',
     borderRadius: '30px',
     border: 'none',
     backgroundColor: '#ff8fab',
